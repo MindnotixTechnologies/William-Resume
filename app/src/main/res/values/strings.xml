@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">William Resume</string>
+
+    <string name="summary">Insert Summary Here</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_work_exp">WorkExp</string>
+    <string name="kik_info">Placeholder for Kik Info</string>
+    <string name="opentext_info">Placeholder for Open Text Info</string>
+    <string name="project">Placeholder for Projects</string>
+    <string name="project_title">Relevant Projects</string>
+    <string name="interests">Placeholder for Interests</string>
+    <string name="skills">Placeholder for skills</string>
+    <string-array name="section_names">
+        <item>Summary</item>
+        <item>Work Experience</item>
+        <item>Past and Relevant Projects</item>
+        <item>Technical Skills</item>
+        <item>Interests and Hobbies</item>
+    </string-array>
+    <string-array name="list_of_interests">
+        <item>Mobile Development</item>
+        <item>Web Development</item>
+        <item>Reading</item>
+        <item>Hockey</item>
+        <item>Golf</item>
+    </string-array>
+    <string-array name="list_projects">
+        <item>Resume Android App</item>
+        <item>C Compiler</item>
+        <item>Tetris Game</item>
+    </string-array>
+    <string-array name="list_projects_desrip">
+        <item>Makes use of cards, listviews, navigation drawer, and tabs</item>
+        <item>CS 241 Final Project | Use of machine language </item>
+        <item>CS 246 Final Project | Used C++, objects, and classes to create a tetris game</item>
+    </string-array>
+    <string-array name="summary_list">
+        <item>A focus on computer science with knowledge in C++, C, Java, Visual Basic, and Scheme</item>
+        <item>Together with my side projects, and my academic knowledge I have  strong basis for te computer science field</item>
+        <item>A co-op work term at Kik  as a release and QA engineer has given me the knowledge of designing a mobile application</item>
+    </string-array>
+    <string-array name="kik_descrip">
+        <item>Each release cycle was made the test lead for features, and was responsible for making sure that feature was bug free</item>
+        <item>Wrote detailed test suites, that would throughly test the feature</item>
+        <item>Responsible for the release of each upgrade making sure the upgrade would go smoothly</item>
+    </string-array>
+    <string-array name="open_descip">
+        <item>Responsible for first and second level support for tools that were used throughout the Open Text Research and Development department</item>
+        <item>Have experience using and managing JIRA, ChangePoint and Confluence tools</item>
+        <item>Responsible for testing new features for the Open Text Test Repository</item>
+    </string-array>
+    <string name="proficient">Proficient With</string>
+    <string name="familiar">Familiar With</string>
+    <string-array name="proficient_list">
+        <item>C++</item>
+        <item>C</item>
+        <item>Visual Basic</item>
+    </string-array>
+    <string-array name="familiar_list">
+        <item>Java</item>
+        <item>Android Development</item>
+    </string-array>
+</resources>
